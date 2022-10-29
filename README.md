@@ -2,8 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=max-paul&color=blueviolet)
 
 
-<i class="devicon-python-plain colored"></i>
-    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+              
            
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-paul&count_private=true&count_public=true&hide=contribs,prs,issues&show_icons=true&theme=dark)
 
