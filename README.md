@@ -2,8 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=max-paul&color=blueviolet)
 
 ### Tools 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-    <p align="left">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
       
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -54,9 +52,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
-          
-  </p>
-<h2/>
 
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-paul&count_private=true&count_public=true&hide=contribs,prs,issues&show_icons=true&theme=dark)
 
