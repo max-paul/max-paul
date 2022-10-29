@@ -1,9 +1,7 @@
 ### Hi there My Name is Max👋
 ![](https://komarev.com/ghpvc/?username=max-paul&color=blueviolet)
-<header>
-         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<i class="devicon-python-plain-wordmark"></i>
+     
+![]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg")
           
            
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-paul&count_private=true&count_public=true&hide=contribs,prs,issues&show_icons=true&theme=dark)
