@@ -3,9 +3,7 @@
 
 ### Tools 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h1>
-
-            <i class="devicon-python-plain colored"></i>
+<i class="devicon-python-plain colored"></i>
     
            
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-paul&count_private=true&count_public=true&hide=contribs,prs,issues&show_icons=true&theme=dark)
